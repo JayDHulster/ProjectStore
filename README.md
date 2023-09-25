@@ -3,7 +3,7 @@ In this project, we aim to develop a comprehensive website designed to serve as 
 
 ## Sectie film
 
-Op regelmatige basis zullen er beelden worden genomen van het projectwerk.
+Op regelmatige basis zullen er beelden worden genomen van de projecten tijdens Project Experience 3.1.
 
 ### Camera-setup lokalen A306-A308
 
@@ -37,3 +37,23 @@ Een voorbeeld van een gratis en open-source DAM-systeem die we zelf kunnen hoste
   * Projecten individueel deelbaar op sociale media
     
 > Eerst werd er gedacht om gebruik te maken van verschillende accounts, docenten die projecten kunnen beheren en studenten die de projecten kunnen schrijven. In overleg met Arno zou het beter zijn om gewoon accounts te maken voor Docenten en de studenten een artikel laten schrijven en inzenden via Toledo.
+
+### Conceptualisatie
+Een eerste concept werd gecreëerd met behulp van [Figma](https://www.figma.com/)
+
+**Homepage**
+![Homepage](https://github.com/JayDHulster/ProjectStore/assets/71697142/ae879bd2-12e8-413e-9a89-77cdd5bd75f4)
+
+**Homepage dark mode**
+![Homepage-Dark](https://github.com/JayDHulster/ProjectStore/assets/71697142/561a7df3-b5f3-4029-ab96-e9fda60a4ba5)
+
+**Over**
+![About](https://github.com/JayDHulster/ProjectStore/assets/71697142/a7fa8117-34b2-49ff-8d2b-703e66b6b8f9)
+
+**Projecten overzicht**
+![Projecten](https://github.com/JayDHulster/ProjectStore/assets/71697142/cda79b2e-b538-4ef1-8b87-13f2bb124857)
+
+**Projectpagina**
+![Projectpagina](https://github.com/JayDHulster/ProjectStore/assets/71697142/d2a70ba8-0186-4504-ac72-2410a0027143)
+
+
