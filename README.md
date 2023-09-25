@@ -42,18 +42,18 @@ Een voorbeeld van een gratis en open-source DAM-systeem die we zelf kunnen hoste
 Een eerste concept werd gecreëerd met behulp van [Figma](https://www.figma.com/)
 
 **Homepage**
-![Homepage](https://github.com/JayDHulster/ProjectStore/assets/71697142/ae879bd2-12e8-413e-9a89-77cdd5bd75f4)
+> ![Homepage](https://github.com/JayDHulster/ProjectStore/assets/71697142/ae879bd2-12e8-413e-9a89-77cdd5bd75f4)
 
 **Homepage dark mode**
-![Homepage-Dark](https://github.com/JayDHulster/ProjectStore/assets/71697142/561a7df3-b5f3-4029-ab96-e9fda60a4ba5)
+> ![Homepage-Dark](https://github.com/JayDHulster/ProjectStore/assets/71697142/561a7df3-b5f3-4029-ab96-e9fda60a4ba5)
 
 **Over**
-![About](https://github.com/JayDHulster/ProjectStore/assets/71697142/a7fa8117-34b2-49ff-8d2b-703e66b6b8f9)
+> ![About](https://github.com/JayDHulster/ProjectStore/assets/71697142/a7fa8117-34b2-49ff-8d2b-703e66b6b8f9)
 
 **Projecten overzicht**
-![Projecten](https://github.com/JayDHulster/ProjectStore/assets/71697142/cda79b2e-b538-4ef1-8b87-13f2bb124857)
+>![Projecten](https://github.com/JayDHulster/ProjectStore/assets/71697142/cda79b2e-b538-4ef1-8b87-13f2bb124857)
 
 **Projectpagina**
-![Projectpagina](https://github.com/JayDHulster/ProjectStore/assets/71697142/d2a70ba8-0186-4504-ac72-2410a0027143)
+> ![Projectpagina](https://github.com/JayDHulster/ProjectStore/assets/71697142/d2a70ba8-0186-4504-ac72-2410a0027143)
 
 
