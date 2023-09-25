@@ -20,7 +20,7 @@ Zo’n systemen worden vooral gebruikt door mediabedrijven zoals VTM.
   
 Als je bijvoorbeeld een video uploadt van één van de GoBabyGo auto’s, kan je metadata toevoegen en zal er het systeem ook automatisch een tag “auto” voorstellen, en/of kan manueel tags toevoegen. Zodat iedereen die toegang heeft gemakkelijk de beelden kan opvragen door auto of GoBabyGo in te tikken.
 
-Als studenten in de toekomst beeldmateriaal moeten maken zodat er iemand anders (bvb digital design) mee aan de slag kan. Dan zal het DAM-systeem ervoor zorgen dat al het beeldmateriaal heel gemakkelijk terug te vinden is.
+Als studenten later beeldmateriaal moeten maken zodat anderen (bvb. studenten digital design) er mee aan de slag kunnnen. Dan zal het DAM-systeem ervoor zorgen dat al het beeldmateriaal heel gemakkelijk terug te vinden is. Naar de toekomst toe kan zo'n video-archief heel interessant zijn.
 
 Een voorbeeld van een gratis en open-source DAM-systeem die we zelf kunnen hosten is ResourceSpace. Het zou me bovendien niet verwonderen mocht VIVES intern al over een DAM-systeem zou beschikken.
 </details>
