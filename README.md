@@ -35,6 +35,8 @@ Een voorbeeld van een gratis en open-source DAM-systeem die we zelf kunnen hoste
   * Volledig systeem op zich
   * Ontwerpvoorkeuren / Merkrichtlijnen in lijn van Vives?
   * Projecten individueel deelbaar op sociale media
+* Projectgallerij
+  * Ieder project zal een gallerijpagina/sectie krijgen zodat de bezoeker meer foto's en videomateriaal kan bekijken.  
     
 > Eerst werd er gedacht om gebruik te maken van verschillende accounts, docenten die projecten kunnen beheren en studenten die de projecten kunnen schrijven. In overleg met Arno zou het beter zijn om gewoon accounts te maken voor Docenten en de studenten een artikel laten schrijven en inzenden via Toledo.
 
